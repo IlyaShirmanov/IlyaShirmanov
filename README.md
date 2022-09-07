@@ -15,9 +15,10 @@ Data Scientist
    <a href="https://t.me/IlyaShirmanov">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
+<p align='center'> 
+    📱 tel: <a href="tel:+79276921873">+79276921873</a>
+<p align='center'>    
    📫 e-mail: <a href='mailto:ilya'>shirmanov1985@yandex.ru</a>
-</p>
 
 
 ## 💼 Ключевые компетенции
@@ -45,6 +46,7 @@ Data Scientist
 
 
 ## 🗃 Мои проекты
+
 
 
 
