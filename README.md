@@ -45,7 +45,7 @@ Data Scientist
 
 
 ## 🗃 Мои проекты
-
+[image-comparison](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/A_B_testing_and_stat_testing.ipynb)
 
 
 
