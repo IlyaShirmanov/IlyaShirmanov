@@ -59,7 +59,7 @@ Data Scientist
 
 [Использование библиотеки numpy для определения косинуснового сходства](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/NUMPY.ipynb)
 
-[Сборник функций: скачивание файлов из яндекс диска, парсин сайта habr.com с формированием датафрейма, модель игры лотерейного автомата](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Other.ipynb)
+[Сборник функций: скачивание файлов из яндекс диска, парсинг с сайта habr.com с формированием датафрейма, модель игры лотерейного автомата](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Other.ipynb)
 
 [Различные статистические тесты](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Statistical_analysis.ipynb)
 
