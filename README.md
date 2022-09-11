@@ -47,7 +47,7 @@ Data Scientist
 ## 🗃 Мои проекты
 [Cтатистические тесты, А-Б тесты, задачи про игры Cookie Cats и Покемонов](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/A_B_testing_and_stat_testing.ipynb)
 
-[Программа автоматизации работы секретаря] (https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Assistant_secretary.ipynb)
+[Программа автоматизации работы секретаря](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Assistant_secretary.ipynb)
 
 [Cоздание классов, получение данных с сайта (библиотека requests)](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Class.ipynb)
 
