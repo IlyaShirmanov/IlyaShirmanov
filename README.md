@@ -45,8 +45,15 @@ Data Scientist
 
 
 ## 🗃 Мои проекты
-[A_B-testing_and_stat_testing - статистические тесты, А-Б тесты, задачи про игры Cookie Cats и Покемонов](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/A_B_testing_and_stat_testing.ipynb)
-
+[Cтатистические тесты, А-Б тесты, задачи про игры Cookie Cats и Покемонов](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/A_B_testing_and_stat_testing.ipynb)
+[Программа автоматизации работы секретаря] (https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Assistant_secretary.ipynb)
+[Cоздание классов, получение данных с сайта (библиотека requests)](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Class.ipynb)
+[Классификация и кластеризация, модель LDA (обучение модели)](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Classification_clustering.ipynb)
+[Корреляционный анализ, линейная регрессия (обучение модели)](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Correlation_analysis.ipynb)
+[Статистические тесты, модель логистической регрессии для классификации текстовых сообщений (обучение модели)](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Logistic_regression_and_stat_testing.ipynb)
+[Использование библиотеки numpy для определения косинуснового сходства](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/NUMPY.ipynb)
+[Сборник функций: скачивание файлов из яндекс диска, парсин сайта habr.com с формированием датафрейма, модель игры лотерейного автомата](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Other.ipynb)
+[Различные статистические тесты](https://github.com/IlyaShirmanov/Portfolio_Data_Science/blob/main/Statistical_analysis.ipynb)
 
 
 <div align="center" style="margin: 40px 0">
